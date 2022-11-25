@@ -32,7 +32,7 @@ Realizamos las mediciones una vez relizado los calculos
 
 # RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-
+[![RESUKTADOS.png](https://i.postimg.cc/SN7TpD8x/RESUKTADOS.png)](https://postimg.cc/0bjdYGcT)
 # VIDEO
 
 
