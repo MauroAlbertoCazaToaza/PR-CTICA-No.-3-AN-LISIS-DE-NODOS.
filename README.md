@@ -19,11 +19,14 @@ Estudiar y analizar el concepto de nodo para posteriormente pasar a su analisis 
 Elaboramos nuestro circuito en Thinkercad y en fisico
 [![CIRCUI.png](https://i.postimg.cc/s2kJ5Hvp/CIRCUI.png)](https://postimg.cc/d79dYBR1)
 [![Circuito-T.png](https://i.postimg.cc/tJH2GvbX/Circuito-T.png)](https://postimg.cc/mz8QQwhq)
-[![Whats-App-Image-2022-11-24-at-9-27-12-PM.jpg](https://i.postimg.cc/mZXtqzyn/Whats-App-Image-2022-11-24-at-9-27-12-PM.jpg)](https://postimg.cc/G9DLTpNP)
+[![Whats-App-Image-2022-11-24-at-9-27-12-PM.jpg](https://i.postimg.cc/mZXtqzyn/Whats-App-Image-2022-11-24-at-9-27-12-PM.jpg)](https://postimg.cc/G9DLTpNP)<br>
 
-Realizamos los calculos
-Primero determinamos sentidos de las corrientes
-[![sentido-de-corrientes.png](https://i.postimg.cc/3NGWgNMJ/sentido-de-corrientes.png)](https://postimg.cc/5QxxJxNZ)
+
+Realizamos los calculos<br>
+Primero determinamos sentidos de las corrientes<br>
+[![sentido-de-corrientes.png](https://i.postimg.cc/3NGWgNMJ/sentido-de-corrientes.png)](https://postimg.cc/5QxxJxNZ)<br>
+
+
 Realizamos los calculos
 
 [![1-EJERCICIO.png](https://i.postimg.cc/FKVYHXT6/1-EJERCICIO.png)](https://postimg.cc/VS5fKpQ9)
