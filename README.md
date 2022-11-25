@@ -37,6 +37,9 @@ Realizamos las mediciones una vez relizado los calculos
 
 
 # CONCLUSIONES
-
+Se logró comprender el método para la verificación de los voltajes de los nodos con la ayuda de la LCK 
 
 # BIBLIOGRAFÍA
+Floyd, T. (2007). Principios de Circuitos Electricos. PEARSON EDUCACIÓN.
+Anónimo. (2021). Leyes de Kirchhoff. 2022, Noviembre 7, de Mecatronica Latam. Sitio web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
