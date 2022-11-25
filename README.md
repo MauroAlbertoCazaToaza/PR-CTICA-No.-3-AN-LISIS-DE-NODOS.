@@ -42,8 +42,9 @@ Realizamos las mediciones una vez relizado los calculos
 # RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 [![RESUKTADOS.png](https://i.postimg.cc/SN7TpD8x/RESUKTADOS.png)](https://postimg.cc/0bjdYGcT)
+[![c-e.png](https://i.postimg.cc/VLGGpk2k/c-e.png)](https://postimg.cc/bsn92pz7)
 # VIDEO
-
+https://youtu.be/fLD1TO1LFe8
 
 # CONCLUSIONES
 - Es importante cumplir con un orden establecido para el análisis de nodos,ya que si no se cumple con la organización adecuada se puede cometer errores en el momento de realizar los calculos pertinentes.
