@@ -5,13 +5,29 @@ Estudiar y analizar el concepto de nodo para posteriormente pasar a su analisis 
 
 ### Objetivos Especificos 
 - 
-- Verificar analítica y experimentalmente los valores de voltajes en todos los nodos del circuito 
+- Verificar analítica y experimentalmente los valores de voltajes en los nodos del circuito 
 - Entender la Ley de corrientes de Kirchhoff y como aplicarla en un circuito
 
 
 # MARCO TEÓRICO
+[![Brainstorm-Mapa-Mental-Estructura-de-Lluvia-de-Ideas-Formas-Irregulares-Multicolor-1.png](https://i.postimg.cc/MTnhpFgV/Brainstorm-Mapa-Mental-Estructura-de-Lluvia-de-Ideas-Formas-Irregulares-Multicolor-1.png)](https://postimg.cc/JDWTTPrz)
 
 # EXPLICACIÓN DEL PROCEDIMIENTO
+Elaboramos nuestro circuito en Thinkercad y en fisico
+[![CIRCUI.png](https://i.postimg.cc/s2kJ5Hvp/CIRCUI.png)](https://postimg.cc/d79dYBR1)
+[![Circuito-T.png](https://i.postimg.cc/tJH2GvbX/Circuito-T.png)](https://postimg.cc/mz8QQwhq)
+[![Whats-App-Image-2022-11-24-at-9-27-12-PM.jpg](https://i.postimg.cc/mZXtqzyn/Whats-App-Image-2022-11-24-at-9-27-12-PM.jpg)](https://postimg.cc/G9DLTpNP)
+
+Realizamos los calculos
+
+
+
+
+
+Realizamos las mediciones una vez relizado los calculos
+[![medicioens.png](https://i.postimg.cc/6pG2CWRm/medicioens.png)](https://postimg.cc/dhwVYK52)
+
+
 
 
 # RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
