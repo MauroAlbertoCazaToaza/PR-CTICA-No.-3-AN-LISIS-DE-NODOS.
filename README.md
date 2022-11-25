@@ -1,4 +1,7 @@
-# PRACTICA-No.-3-AN-LISIS-DE-NODOS.
+# PRACTICA-No.3 ANALISIS-DE NODOS
+Javier Arias <br>
+Mauro Caza <br>
+Joel Velastegui<br>
 # OBJETIVOS
 ### Objetivo General
 Estudiar y analizar el concepto de nodo para posteriormente pasar a su analisis media la Ley de Corrientes de Khrirchoff para expresar corrientes en funcion de los voltajes, se realizara mediate via teorico practica y experiemnetal ya que del papel pasaremos a la simulacion y de la simulacion pasaremos a armar nuestrop circuito logrando asi entender correctamente el funcionamiento de los nodos y la LCK aspectos basicos de mucha importancia en la materia de circuitos.
@@ -7,6 +10,7 @@ Estudiar y analizar el concepto de nodo para posteriormente pasar a su analisis 
 - 
 - Verificar analítica y experimentalmente los valores de voltajes en los nodos del circuito 
 - Entender la Ley de corrientes de Kirchhoff y como aplicarla en un circuito
+- Analizar la importancia de los nodos en el circuito eléctrico
 
 
 # MARCO TEÓRICO
@@ -37,8 +41,9 @@ Realizamos las mediciones una vez relizado los calculos
 
 
 # CONCLUSIONES
-Se logró comprender el método para la verificación de los voltajes de los nodos con la ayuda de la LCK 
-
+- Es importante cumplir con un orden establecido para el análisis de nodos,ya que si no se cumple con la organización adecuada se puede cometer errores en el momento de realizar los calculos pertinentes.
+- Como dato adicional las leyes de Kirchhoff cumplen con un rol importante dentro del análisis,nos facilitaron el cálculo de mallas y nodos en el circuito,y que el margen de error que presenta sea debido a las resistencias que componen el circuito.
+- Por último en el presente informe se llego a la conclusión sobre la importancia de analizar los nodos en un circuito eléctrico es que cuando al analizar el nodo de referencia que el valor del voltaje es cero, también saber los voltajes que regulan cada una de las resistencias de un circuito y la corriente que entra tiene que ser igual a la corriente que salen en todo el circuito y establecer el sentido de las corrientes en los nodos.
 # BIBLIOGRAFÍA
 Floyd, T. (2007). Principios de Circuitos Electricos. PEARSON EDUCACIÓN.
 Anónimo. (2021). Leyes de Kirchhoff. 2022, Noviembre 7, de Mecatronica Latam. Sitio web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
