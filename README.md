@@ -22,6 +22,9 @@ Elaboramos nuestro circuito en Thinkercad y en fisico
 [![Whats-App-Image-2022-11-24-at-9-27-12-PM.jpg](https://i.postimg.cc/mZXtqzyn/Whats-App-Image-2022-11-24-at-9-27-12-PM.jpg)](https://postimg.cc/G9DLTpNP)
 
 Realizamos los calculos
+Primero determinamos sentidos de las corrientes
+[![sentido-de-corrientes.png](https://i.postimg.cc/3NGWgNMJ/sentido-de-corrientes.png)](https://postimg.cc/5QxxJxNZ)
+Realizamos los calculos
 
 [![1-EJERCICIO.png](https://i.postimg.cc/FKVYHXT6/1-EJERCICIO.png)](https://postimg.cc/VS5fKpQ9)
 
