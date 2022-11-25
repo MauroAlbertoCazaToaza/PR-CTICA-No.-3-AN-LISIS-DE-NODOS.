@@ -20,9 +20,9 @@ Elaboramos nuestro circuito en Thinkercad y en fisico
 
 Realizamos los calculos
 
+[![1-EJERCICIO.png](https://i.postimg.cc/FKVYHXT6/1-EJERCICIO.png)](https://postimg.cc/VS5fKpQ9)
 
-
-
+[![2-EJERCICIO.png](https://i.postimg.cc/1tTs9W1T/2-EJERCICIO.png)](https://postimg.cc/JDb9x5nc)
 
 Realizamos las mediciones una vez relizado los calculos
 [![medicioens.png](https://i.postimg.cc/6pG2CWRm/medicioens.png)](https://postimg.cc/dhwVYK52)
